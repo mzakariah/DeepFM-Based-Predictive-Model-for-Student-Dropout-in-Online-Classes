@@ -1,6 +1,8 @@
 # DeepFM-Based-Predictive-Model-for-Student-Dropout-in-Online-Classes
 Dataset:
 https://drive.google.com/file/d/1jJsZJNOCBi5kVzxoghy1u1aKpkHIgMD6/view?usp=share_link
+cleaned version:
+https://drive.google.com/file/d/14gGlgEj0vcqJ9Q0onPA-GwFBY8dp0kBu/view?usp=share_link
 
 The HarvardX Person-Course Academic Year 2013 De-Identified Dataset (HMPC) is a dataset that contains information on student enrollment and performance in HarvardX courses offered through the edX platform during the academic year 2013. The dataset includes de-identified information on individual students, such as age, gender, and country of residence, as well as course-level information, such as course subjects, start and end dates, and grades. 
 
